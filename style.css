@@ -1,0 +1,17 @@
+h1 {
+    display: inline;
+}
+
+.page {
+    margin-top: 15%;
+}
+
+.box {
+    background-color: #222222;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.text {
+    color: ffffff;
+}
